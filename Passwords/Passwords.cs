@@ -2,7 +2,7 @@
 
 namespace PasswordGenerator
 {
-    class Program
+    class Passwords
     {
         static void Main()
         {
