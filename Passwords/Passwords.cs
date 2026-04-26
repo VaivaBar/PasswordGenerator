@@ -6,7 +6,7 @@ namespace PasswordGenerator
     {
         static void Main()
         {
-            Console.WriteLine("=== Password Generator ===\n");
+            Console.WriteLine("Password Generator");
 
             Console.Write("Password length: ");
             int length = int.Parse(Console.ReadLine());
